@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.pytest_cache/
+.env
+uploaded_repo/
+cloned_repo/
+tests/test_generated.py
+*.pyc
+.DS_Store
